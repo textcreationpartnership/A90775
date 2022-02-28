@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The pleasant and delightful] history of the renowned northern worthy, Johnny Armstrong, of Westmoreland shewing his many noble deeds in his youth in divers countries, in arms against the Turks and Saracens in the Holy Land; : and how, settling at Guiltnock-hall in Westmoreland he by his industry, without any estate in lands or rents kept eightscore men to attend him, richly apparell'd well mounted and armed : how he married a fair lady, a poor knight's daughter, and of the noble entertainment at his wedding who brought him a fair son: : also an account of his many victories over the Scots, and how going to Edenborough upon the friendly invitation of that king, he and his men were all slain, valiantly fighting, whose death was revenged by his son; with many other matters of note : licens'd and enter'd according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90775</idno>
+            <idno type="STC">Wing P2531</idno>
+            <idno type="STC">ESTC N12166</idno>
+            <idno type="EEBO-CITATION">43077565</idno>
+            <idno type="OCLC">ocm 43077565</idno>
+            <idno type="VID">151649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151649)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2269:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The pleasant and delightful] history of the renowned northern worthy, Johnny Armstrong, of Westmoreland shewing his many noble deeds in his youth in divers countries, in arms against the Turks and Saracens in the Holy Land; : and how, settling at Guiltnock-hall in Westmoreland he by his industry, without any estate in lands or rents kept eightscore men to attend him, richly apparell'd well mounted and armed : how he married a fair lady, a poor knight's daughter, and of the noble entertainment at his wedding who brought him a fair son: : also an account of his many victories over the Scots, and how going to Edenborough upon the friendly invitation of that king, he and his men were all slain, valiantly fighting, whose death was revenged by his son; with many other matters of note : licens'd and enter'd according to order.</title>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Norris and sold by the booksellers,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[ca. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First four words of title are cut off at top; full title supplied by NUC pre-1956 imprints.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Illustrated cover has imprint: London : Printed by Tho. Norris, at the Looking-glass on London-bridge.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armstrong, John, d. 1528.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151649:1"/>
+            <p>The Pleaſant and Delightful Hiſtory of <hi>Johnny Armſtrong:</hi>
+            </p>
+            <figure>
+               <figDesc>battle between footsoldiers</figDesc>
+            </figure>
+            <p>
+               <hi>London:</hi> Printed by <hi>Tho. Norris,</hi> at the Looking-glaſs on <hi>London-bridge.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:151649:2" rendition="simple:additions"/>
+            <pb facs="tcp:151649:2" rendition="simple:additions"/>
+            <p>HISTORY OF THE Renowned Northern WORTHY, <hi>Iohnny Armſtrong,</hi> OF <hi>WESTMORELAND</hi> SHEWING His many Noble Deeds in his Youth in divers Coun<g ref="char:EOLhyphen"/>tries, in Arms againſt the Turks and Saracens in the <hi>H<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y, Land;</hi> and how, ſettling at <hi>Guiltnock-hall</hi> in <hi>Weſtmoreland</hi> he by his Induſtry, without any Eſtate in Lands or Rents' kept eight ſcore Men to attend him, richly apparell'd well-mounted, and armed: How he married a fair Lady, a poor Knight's Daughter, and of the noble Entertainment at his Wedding who brought him a fair Son: Alſo an Account of his many Victories over the <hi>Scots,</hi> and how going to <hi>E<g ref="char:EOLhyphen"/>denborough</hi> upon the friendly Invitation of that King he and his Men were all ſlain, valiently fighting, whoſe Death was revenged by his Son; with many other Matters of Note.</p>
+            <p>
+               <hi>Licens'd and Enter'd according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Norris,</hi> and ſold by the Bookſellers.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151649:3"/>
+            <pb n="1" facs="tcp:151649:3"/>
+            <head>THE HISTORY OF <hi>Iohnny Armſtrong,</hi> OF <hi>WESTMORELAND,</hi> &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>How in his youthful Days following Wars abroad in the</hi> Holy Land, <hi>and other Countries, he learned the Art of Arms, came off with great Succeſs and Applauſe; and after his Return, ſettled at</hi> Guiltnock-hall, <hi>in</hi> Weſtmoreland; <hi>and of the noble Entertainment he gave to his hundred and ſixty Men.</hi>
+               </head>
+               <p>IN former Times when the Wars were frequent be<g ref="char:EOLhyphen"/>tween <hi>England</hi> and <hi>Scotland,</hi> before the two King<g ref="char:EOLhyphen"/>doms were united in King <hi>James</hi> the Firſt of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and Sixth of <hi>Sco<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>land,</hi> the bordering Countries, by reaſon of the Inroads that were made, were ſometimes poſſeſſed by one Nation, and ſometimes
+<pb n="2" facs="tcp:151649:4"/>by another; ſo that in theſe Conteſts there happened to live in <hi>Weſtmoreland,</hi> a brave and jolly Man named <hi>Johnny Armſtrong,</hi> who made it his Buſineſs to keep up the good and laudible Cuſtoms of Charity, ſupplying the Poor with Cloaths and Food, not denying to any that asked; ſo that for his Liberality he was famed every where, and extreamly beloved by all, as well of his rich Neighbours as poor Ones; and though he had no free eſtate, yet there was ſuch a Providence upon his Induſtry, which he uſed many ways, as in cloathing, buy<g ref="char:EOLhyphen"/>ing and ſelling Forreſts of Timber, breeding Cattle, and the like, that his Store vaſtly encreaſed, inſomuch that a great many wondered how he could live at the rate he did, not well knowing how his Incomes ſhould maintain it. For building a long Hall on purpoſe; he had a Table every Day furniſhed for eightſcore Men, which he not only fed, but kept cloathed, and main<g ref="char:EOLhyphen"/>tained in all other Marters; having Horſe and Arms upon Occaſion for the Defence of his Country, ready for them to mount, taking great Delight to exerciſe them, having been trained up a Soldier in foreign Lands, fighting againſt the Turks and Sarazens many Years in his youthful Days, and done great exploits which made him by many be ſtiled the Ch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpion of the North, ſo that he kept the Borders very much in</p>
+               <p>His Manſion Houſe was called <hi>Guilt-nock-hall,</hi> and his famed to this Day for his living in it, there being ſmall Houſes ſtanding in the ſame Place, bearing the Name to this time; however, the larger Ruins ſhews it has been a Place very famous in former, for upon digging, the work<g ref="char:EOLhyphen"/>men found the Foundations very ſpacious; and ſome of them have had the Luck to light upon earthern-pots,
+<pb n="3" facs="tcp:151649:4"/>with the Coin of divers Kings, to the great inriching of them, and ſo they called it <hi>Johnny Armſtrong</hi>'s Bounty<g ref="char:EOLhyphen"/>money. Upon theſe things he imployed himſelf, till he was forty Years of Age, without being married, though ſeveral rich Offers were made to him of weal<g ref="char:EOLhyphen"/>thy young Maidens; this made him conſider of alter<g ref="char:EOLhyphen"/>ing his Condition, not ſo much for the Deſire of Mar<g ref="char:EOLhyphen"/>riage, as he might get an Heir to keep up the Grandeur of his Hoſpitality, and to carry his Name to Poſterity, as being defcended of a very ancient and worthy Fa<g ref="char:EOLhyphen"/>mily, ſome of which are living to this Day.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>How being ſettled, vnd living gallantly, he bethought him<g ref="char:EOLhyphen"/>ſelf of Marriage, and fell in Love with a Gentleusan's Daughter of ao Fortune; and of the ſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>endid Enter<g ref="char:EOLhyphen"/>tainment he made; and how thereupon he was taken for the King,</hi> &amp;c.</head>
+               <p>HIs Thoughts about Marriage were no ſooner known, but out of the Reſpect the Gentry and others in the Country had for him, many ſuitable Matches were propoſed; but as for Riches he lightly regarded it, relying mainly on the bounties of Pro<g ref="char:EOLhyphen"/>videhce, he reſolved to chooſe out one Handſome, In<g ref="char:EOLhyphen"/>genious and Virtuous; and ſo it was not long e're he ſaw One as he was paſſing through a Market-Town, that he could fancy; and upon Inquiry, found ſhe was a Gentleman's Daughter, though of a mean Fortune, her Father being fallen much to Decay, by the Loſſes he had received by the War between the two Nations, in his Eſtate and Goods: But this made no Difference between them, the Gentlemah was was glad to put his
+<pb n="4" facs="tcp:151649:5"/>Daughter off ſo well, and <hi>Johnny</hi> was as well pleaſed he had met with a virtuous modeſt Woman, not with<g ref="char:EOLhyphen"/>out a Sufficiency of beauty to pleaſe him well enough; and the Day being appointed, he promiſed to come and marry her, and ſo fetch her home to his Houſe. And in order to this, he arrayed his eightſcore Men in Purple, laced all with Gold and Silver-Lace, with Silver-hilted Swords, embroider'd Belts, guilded Spurs, and Plumes of white Feathers in their Bonnets, and bravely mounted, he rid in moſt gallant Attire at the Head of them; ſo that the People through the Towns as he paſſed, taking him for the King, they run be<g ref="char:EOLhyphen"/>fore him, throwing up their Hats, and ſhouting; nor could they hardly be perſuaded by himſelf to the con<g ref="char:EOLhyphen"/>trary.</p>
+               <p>His fair Miſtreſs was of the ſame Opinion, when looking out at the Window, upon the knoc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing at the Gate, and ſeeing her father's Houſe ſurrounded with ſo gallant a Troop, fancying it could be none elſe, and that he might be a hunting in thoſe Parts, and ſo came thither for entertainment; upon this ſhe run and waked her Father, it being yet early, and told him the King was come with a numerous Train to viſit him.</p>
+               <p>
+                  <hi>God forbid,</hi> ſaid he, <hi>what ſhall we do then? We ſhall be undone, for all our Proviſions for thy Wedding will not be a Mouthful for them. Indeed the houſe looks fair and promiſing without, though my mean Fortune can allow but lean Coasmons. Go down and tell them I am not at home, I am ſick, or any thing to put them off; for better ſo, than pretend to entertain them, when we cannot do it; better ſtrain a Complement, than to be diſgraced, or at leaſt faſt I know not how long after.</hi>
+               </p>
+               <pb n="5" facs="tcp:151649:5"/>
+               <p>Upon this, down ſhe went, and peeping thro' the Wicket, demanded what brought them to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Father's Houſe; to which <hi>Johnny Armſtrong</hi> replyed, My Pro<g ref="char:EOLhyphen"/>miſe to you, that I would this Day make you my Wife. Upon this, knowing his Voice, and looking wiſhfully on him, ſhe could not but fancy him to be what before ſhe had thought, till he alighted, and ſa<g ref="char:EOLhyphen"/>luted her kindly, aſſuring her he was no other than <hi>Johnny Armſtrong</hi> of <hi>Guiltnock-hall,</hi> in <hi>Weſtmoreland.</hi> Upon this throwing open the Gates, ſhe conducted him in, and run up to tell the Buſineſs, vvhereupon her Father coming down, kindly vvelcomed him. But vvhen he favv his Train, he bleſſed himſelf, to knovv vvhat he meant by bringing ſuch a number of Men ſo bravely accutred, fancying he had invited all the Gentlemen in ten Countries: But when he told him they vvere ſuch as uſually attended him vvhen he went upon any important Affair, his Wonder yet more en<g ref="char:EOLhyphen"/>creaſed, for though he had heard he had daily relieved abundance of Poor, he could not believe he could keep ſo many Men in that Garb.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="6" facs="tcp:151649:6"/>
+               <head>CHAP. III. <hi>How he was married, and of the noble Entertainment be made, the number of his Servants and Attendants, and how he invited the whole Country to his Weding,</hi> &amp;c.</head>
+               <figure>
+                  <figDesc>man and woman, presumably Johnny and his bride</figDesc>
+               </figure>
+               <p>NOW Matters being at this paſs, the Pages had the Care of the horſes, vvhilſt the Men light to refreſh themſelves; though all the Liquor in the houſe was not a Morning's Draught for them; vvhich made the old Gentleman, the Father conclude that this vvould be a Faſting-day of a Wedding. But vvhilſt theſe Doubts and Fears ſhook him like a Palſie, all on a ſudden arrived <hi>Armſtrong</hi>'s Cooks and Scullions, tvventy in Number, with a Carrivan
+<pb n="7" facs="tcp:151649:6"/>of Proviſion ready to dreſs: after them his Butlers, being eight, with another of Wine, Cyder, Ale, and other Liquor; ſo that it ſeemed, when taken out, a Plenty ſufficient to have ſupplyed a little City againſt a Siege. So to work went the Cooks, <hi>&amp;c.</hi> whilſt he and his Bride, bravely mounted, rode attended by his Men to the Church, making ſuch a Show as that Country had never before ſeen. The People upon Notice of it, coming far and near to be Spectators, ſome giving out, eſpecially the ignorant Sort, that E<g ref="char:EOLhyphen"/>ſquire <hi>Leonard</hi>'s Daughter had married the King for certain; for as he came out of the Church, he gave a hundred Mark to be diſtributed among the Poor, which they fancied none but a King could or at leaſt would do.</p>
+               <p>When they came home, after the Wine of divers Nations had gone briskly about, they found the Tables covered with all manner of Varieties that Sea, Earth, or Air could afford, as, Fowl, Fiſh, Fleſh, Fruits, and other Dainties; and yet above half was not brought in, ſo that they were obliged, for want of Room in the Houſe, to have Tables ſpread in the Court-yard. For the Porter was ordered to make Proclamation, That all Comers ſhould be welcome that Day; and ſo till Night they drank and feaſted plentifully; and then his Muſick and his Maſqueraders to divert the Com<g ref="char:EOLhyphen"/>pany till Bed-time; though indeed there was not Lodg<g ref="char:EOLhyphen"/>ing for a fortieth part of them, ſo that open Houſe was kept all Night. And he finding the ill Conveni<g ref="char:EOLhyphen"/>niency of ſtaying there longer, took his leave of his Father-in-law the next Morning, and conveyed his fair Bride home with him in great State, and with her li<g ref="char:EOLhyphen"/>ved very happily, ſupplying her Father's Wants on all
+<pb n="8" facs="tcp:151649:7"/>Occaſions with Proviſion and Money, and made him live very comfortably.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>How having carried his fair Bride home, ſhe was magni<g ref="char:EOLhyphen"/>ficiently entertained: How ſoon after he had divers Encounters with the Scots, and thereupon a War ari<g ref="char:EOLhyphen"/>ſing between the two Nations, after the Battle at</hi> Ban<g ref="char:EOLhyphen"/>nock<hi>'s Bourn,</hi> Weſtmoreland <hi>fell into their Hands.</hi>
+               </head>
+               <p>BEing now at home, he ſo ſettled all things in good Order in that Country, that the King of <hi>England</hi> ſent him Thanks for the Care he had in pro<g ref="char:EOLhyphen"/>tecting Paſſengers from Robbers and Thieves, as like<g ref="char:EOLhyphen"/>wiſe from the plundering Scots, which he made many times go ſhort home, wherefore they mortally ha<g ref="char:EOLhyphen"/>ted him, and layed ſome Deſigns to intrap him, but having his Guard of merry old true hearted Blades with him, he always came off with flying Colours. And during theſe Tranſactions his Wife was brought to Bed of a fair Son, which much rejoyced Parents Hearts, ſo that holding a Feaſt at his Chriſtening, all the Country in a manner, ſo that the Fame of it rung far and near.</p>
+               <p>In the middle of this Joy, he had Notice, that a Party of Scots were advanced within ten Miles of his Seat, ravaging and plundering the Country, ſo that the People came flying before them a pace; but he and his Men mounting, gave them Battle on the Borders of the Country, and overthrew them with ſo woful a Slaughter, that very few returned to <hi>Carliſle,</hi> (which Garriſon in thoſe Days the Scots held) to tell of the Defeat.</p>
+               <pb n="9" facs="tcp:151649:7"/>
+               <p>Theſe, and ſuch like Encounters and Depradations, cauſed an open War between the two Nations, which had been ſtilled for a Time; and King <hi>Edward</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> marched towards <hi>Scotland,</hi> and entred it with a mighty Army, but very ill diſciplin'd; for the Scotch Hiſtorians tell us they were a hundred thouſand, beſides Women, Lackeys, and other Servants, many carry<g ref="char:EOLhyphen"/>ing their whole families with them to ſettle, when <hi>Scotland</hi> ſhould be over-run. But <hi>Fortune</hi> was here a<g ref="char:EOLhyphen"/>gainſt the Engliſh, by reaſon of their Security and O<g ref="char:EOLhyphen"/>ver-confidence in their Number, for in a mortal battle at a Place called <hi>Bannock's Bourn, Robert,</hi> the Scots King ſetting upon 'em, utterly vanquiſh'd 'em with a leſſer Number, killing about ten thouſand of them, with the Earl of <hi>Glouc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſter</hi> and two hundred Knights, Squires; and on the Scots ſide about ſix thouſand were killed, with divers Nobles and Gentlemen, ſo that they purſu<g ref="char:EOLhyphen"/>ing their Succeſs, won <hi>Weſtmoreland</hi> and <hi>Cumberland.</hi> Our famous <hi>Armſtrong</hi> was not at this Battle, but was much ſurprized at it, and would have perſuaded the re<g ref="char:EOLhyphen"/>treating Engliſh, to whoſe Aid he was coming, to ral<g ref="char:EOLhyphen"/>ly and face about; but wanting a warlike Prince to lead them, it proved ineffectual; and now he ſound him<g ref="char:EOLhyphen"/>ſelf conſtrained to become a Subject to the King of <hi>Scotland,</hi> or leave his fair Seat, which he reſolved not do, though his Wife and his Father in-law main<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y per<g ref="char:EOLhyphen"/>ſuaded him to it, conſidering how much he had done againſt that Nation, and that he could not well expect but now it was in their Power they would not forget it: But he being of an undaunted Courage, told them, that he had been brought up a Soldier, and what he had done,
+<pb n="10" facs="tcp:151649:8"/>was according to the Law of Arms, and that even a ge<g ref="char:EOLhyphen"/>nerous Enemy could not but approve it: Beſides, in a little time all might be won back again by the Engliſh; and therefore he not being uſed to deſpair in Provi<g ref="char:EOLhyphen"/>dence, or ſubject to fear, would not remove from a Place he ſo dearly loved upon Suggeſtions of Dan<g ref="char:EOLhyphen"/>gers that might ever happen, leaſt the World might impute to him a Cowardice he was never guilty of.</p>
+               <p>Theſe Words put them Silence, and he ſtill went on in his own generous Way of Living, keeping open Houſe, and doing all the Good he could even to the Poor of either nation without Indifferency, that no Exceptions might be taken, or he be branded with Par<g ref="char:EOLhyphen"/>tiality.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>How being perſuaded to leave</hi> Guiltnock-hall, <hi>and retire from the Scottiſh Revenge, being refuſed for many Rea<g ref="char:EOLhyphen"/>ſon; and great Commotions ariſing by the landing of the Danes and Redſhanks, he was ſuſpected upon the falſe Accuſvtion of a Lord: How the King invited him to</hi> Edenborough, <hi>to deſtroy him, and he promſed to go.</hi>
+               </head>
+               <p>DUring theſe Stirs, the Danes and Redſhanks, two bloody Northern Nations, made great Havock in the Weſtern Iſles of <hi>Scotland,</hi> where they had landed, and with them joyned ſome of the diſcon<g ref="char:EOLhyphen"/>tented Scots, as well Noblemen as others, ſo that the King knew not who to truſt, ſince ſome proved treacherous on whom he ſeemed moſtly to rely; this vexed him, and made him ſuſpicious even of his Friends, ſo that he impriſoned many of them out
+<pb n="11" facs="tcp:151649:8"/>of Fear they ſhould joyn with the Engliſh, who were making Preparations to recover what they had ſo ſhamefully loſt; or with the Northern Enemy, to whom flocked a great many Outlaws and idle Perſons, who ſuppoſed in the midſt of Spoil and Plunder, they ſhould be enriched with the Goods and Chattels that others had induſtriouſly laboured for.</p>
+               <p>Theſe Proceedings made many of the Great Ones whom he ſent to, refuſe to come to him, leaſt they ſhould be clapt up as the others had been; and then what Accuſations might be brought falſly againſt them they know not.</p>
+               <p>This made him clap his Hand on his Breaſt, looking on thoſe that were about him, and with a Sigh, ſaid, <hi>Ah! is</hi> Scotland <hi>ſo full of Treachery, that never a Man from the highest to the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owest Degree, dare appear before his King when he ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nds for him.</hi>
+               </p>
+               <p>Hereupon an Officer of his Houſhold ſtanding up, and then bowing low ſaid, <hi>May it pleaſe your Majeſty, there is one, named</hi> John Armſtrong <hi>in</hi> Weſtmoreland, <hi>a valiant and truſty Man, whom I doubt not may do you Service. What is he,</hi> ſaid the King, <hi>or his Ability? Why,</hi> replyed the Officer, <hi>he lives very ſplendidly, gives Noble Entertainment to all Comers, and yet I never heard he had any Land to maintain it. Then,</hi> ſaid the King, <hi>he muſt live by Plunder and Robbery; and of ſuch there are too many in the Kingdom already. But does he keep any Men to attend him? Yes,</hi> replyed the other, <hi>he a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ways in intains eightſcore gallant Fellows, bravely attired; and when he goes abroad, they ride with him well mounted and armed.</hi>
+               </p>
+               <pb n="12" facs="tcp:151649:9"/>
+               <p>Whilſt this Dialogue held, in came a Lord whom <hi>Armſtrong</hi> and his Men had a little before the Fight at <hi>Bannock's Bourn</hi> routed on the Borders, and reſcued a great Booty of Cattle taken from the poor Engliſh Coun<g ref="char:EOLhyphen"/>try People, and challenged him to ſingle Combat, but he durſt not anſwer him. Of this mortal Enemy of his the King demanded, if he knew one <hi>Johnny Armſtrong,</hi> of <hi>Weſtmoreland,</hi> and what he was? <hi>Know him,</hi> re<g ref="char:EOLhyphen"/>plied he, <hi>Yes, may it pleaſe your Majeſty, and ſo does all your poor <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ubjects on the other, and this ſide the</hi> Tweed; <hi>he has been a bitter Enemy to our Countr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and is like to be ſo again, when the Engliſh, who now I hear are prepa<g ref="char:EOLhyphen"/>paring to make an Attempt upon it; and unleſs your Ma<g ref="char:EOLhyphen"/>jeſty can get him into your Hands, and d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtroy him, and the Neſt of Rebels he keeps, your new Conqueſts can never be ſecured to you.</hi>
+               </p>
+               <p>This falſe and malicious Report ſo incenſed the King againſt this juſt and valiant Man, that he reſolved, if poſſible, his Deſtruction, without enquiring further into the Matter; purpoſing to go with Forces, and im<g ref="char:EOLhyphen"/>mediately fall upon him: But that was objected againſt leſt, upon notice of the March, he ſhould retire into the Engliſh Territories, and become yet a more im<g ref="char:EOLhyphen"/>placable Enemy: Therefore it was thought adviſeable in a ſecret Council, called to that purpoſe, he ſhould be ſent for to <hi>Edenborough</hi> under fair pretences of friend<g ref="char:EOLhyphen"/>ſhip, and there he and his Train he brought with him, might be cut off without much Reſiſtance.</p>
+               <p>This was agreed on as proper, whereupon the King writ to him the following Letter:</p>
+               <pb n="13" facs="tcp:151649:9"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>WE having heard much of the Fame of you, our dear and loving Subject, and your great Bounty, and many ſingular Vertues, have raiſed ſuch Admiration in us, that we could do no leſs at this time, then take Notice of one who is beloved of the common People, and may be ſo greatly ſerviceable to us, when things go ſo badly; Therefore I will not command, but earneſtly require you on the ſight of this our Letter to repair to us at our City of</hi> Edenborough, <hi>with your Attendance, where you ſhall be heartily welcome. And for your ſafe Conduct, this our Letter, with our Royal Word and ſolemn Promiſe, ſhall be a ſufficient Pledge and Secu<g ref="char:EOLhyphen"/>rity.</hi>
+                     </p>
+                     <closer>
+                        <signed>Robert Rex.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This Letter was ſealed with the King's Signet, and ſent with all ſecreſie and ſpeed, which he received as he came from Hunting; and having highly treated the Meſſenger, and giving him his Promiſe to wait on the King on the Morrow, he diſmiſſed him.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>How he went bravely attended with his eightſcore Men to</hi> Edenborough, <hi>notwithſtanding many Preſages that forbid it: The Diſcourſe he had with the King, who charging him wrongfully as a Traytor, and ordering him and his Men to be hanged, they fought with the King's Guards, the whole City in a bloody Battle, till they were all ſlain but his Page; and how his little Son promiſed to revenge his Father's Death.</hi>
+               </head>
+               <p>THe valiant <hi>John Armſtrong</hi> being at this Invitation a little puzled to think what the Reaſon ſhould be and therefore communicated it to his Friends, to have
+<pb n="14" facs="tcp:151649:10"/>their Opinions; but they were as much in the dark as himſelf; but ſince he had received the King's Letter of Conduct, and paſſed his Word to go, they concluded (all but his Wife, who was full of Fear for him) that it would be convenient for him to fulfill his Promiſe.</p>
+               <p>Whereupon he ordered his Men to be ready the next Morning, and to put on their beſt Apparel, which were Velvet Coats lac'd with three broad Gold Laces, and Scarlet Cloaks with five of Silver, as the moſt modiſh Faſhion of thoſe times, was alſo to put on their gold em<g ref="char:EOLhyphen"/>broidered Belts, which were made to hang over their Shoulders, and every one a Falchion by his Side, with a ſilver Handle, a Buckler of Steel, and a plume of white Feathers in their Hats or Bonnets. The Emblem of them that they unluckily went into War and Miſchief.</p>
+               <p>His Commands were not diſputed, but in the Morn<g ref="char:EOLhyphen"/>ing they were up with the Sun, and immediately had put themſelves in array to march; when all on a ſudden the glorious Luminary, that ſhone ſo bright at his aſ<g ref="char:EOLhyphen"/>cending our Horizon, was clouded and overcaſt, and Thunders began to rumble in the Air, which was the Fore-runner of Rain and Whirlwinds; however, there being ſome Signs of clearing up, he reſolved to ſet for<g ref="char:EOLhyphen"/>ward, but coming to take his leave of his dearly beloved Wife and little Son, and giving them many tender Kiſ<g ref="char:EOLhyphen"/>ſes and Embraces, Tears trickled from his Eyes, con<g ref="char:EOLhyphen"/>trary to their wonted Uſe, and his manly Courage fail<g ref="char:EOLhyphen"/>ed him, and all on a ſudden he grew ſad and melan<g ref="char:EOLhyphen"/>cholly; without being able to give any Reaſon for it. But his Wive's Intreaties and his Son's Tears, were too weak to ſtay him; ſo with kind Farewels they parted as they hoped, but for a time, but it proved a long one.</p>
+               <pb n="15" facs="tcp:151649:10"/>
+               <p>As they rid through ſeveral Towns, the People ſlock<g ref="char:EOLhyphen"/>ed to ſee their Bravery; at laſt they came to the flowery Banks of <hi>Tweed,</hi> which part rightly <hi>Scotland</hi> from <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and is its Boundary, over which River they paſſed by a Foard, and ſo rod on towards <hi>Edenborough,</hi> ſend<g ref="char:EOLhyphen"/>ing word before of his coming, leaſt ſo great a Troop might make the City ſhut their Gates on a ſudden, for fear of a Surprize.</p>
+               <p>The King no ſooner had notice of this, but he placed his Guards to be ready on the firſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rder to execute his Commands; but when he came to his Preſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo nobly attended, he began to doubt it might be a miſtaken Ru<g ref="char:EOLhyphen"/>mour of <hi>Armſtrong</hi>'s coming, fancying it might rather be ſome foreign Prince come to pay him a Viſit; where<g ref="char:EOLhyphen"/>fore upon his low bowing, the King moved his Bonnet to him in a courteous manner, bidding him ſtand up; but he was no ſooner certified it was he, e're the kind Language was turned into the hateful Names of Villain Traytor, Enemy to <hi>Scotland,</hi> Thief, Robber, and much more of this unexpected Language, which ſomething ſtartled him; whereupon he bending one Knee to the Ground, begged Pardon if he had done any thing that had offended his Majeſty; but as for his coming thither it was in Obedience to his Letter, which promiſed him better Entertainment, and ſafe Conduct, and therefore deſired to know to what end he was ſent for, tendring his Service if it might be accepted. No, Traytor, repli<g ref="char:EOLhyphen"/>ed he, in a Rage, I need not thy Service, and as for the fair Promiſes in my Letter, 'twas to decoy you and your Neſt of Thieves hither; and laſtly, the Cauſe of ſending for you, was to hang you and your Men; which ſhall be done by eight of the Clock to morrow Morning. At this, the bold Engliſh Man riſing up unconcerned, with<g ref="char:EOLhyphen"/>out
+<pb n="16" facs="tcp:151649:11"/>out fear deſired he might juſtifie himſelf and his Men and be cleared of the falſe Report his Majeſty had per<g ref="char:EOLhyphen"/>haps received of them. But the Lord who firſt accus'd him and ſome of his Creatures incenſing the King a<g ref="char:EOLhyphen"/>gainſt him, it was denyed, and the Guards which were about two thoufand, had the Signal to drag them to Goal, and the next Morning to execute them.</p>
+               <p>
+                  <hi>Hah,</hi> ſays <hi>Armſtrong, haſt thou thus broke thy Word with me, thus baſely to enſnare and deſtroy me and my Men. Well, we are Men, and like Men we will die, if it muſt be ſo, and</hi> Scotland <hi>ſhall buy our Lives at a dear rate.</hi> Upon that, looking behind him, and encouraging his Follow<g ref="char:EOLhyphen"/>ers to take Example by him, he drew his truſty Sword, and making at the King through the thick of his Guards ſtruck at him with ſuch Fury, that he had taken off his Head at the Stroak, had he not nimbly avoided by fal<g ref="char:EOLhyphen"/>ling on the Ground. <hi>Armſtrong</hi>'s Men ſeeing their Lea<g ref="char:EOLhyphen"/>der engaged among ſo many Swords, immediately drew; and ſo laid about them that all the Place was ſlippery with Blood; driving thoſe that remained unſlain out of the Palace into the open Streets; wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſt the Cry aroſe through all the C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty, as if it had been taken by Storm; ſo that at laſt three thouſand more coming upon the He<g ref="char:EOLhyphen"/>roick <hi>Armſtrong,</hi> being tired with the Slaughter of h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Enemies, and faint w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Wounds and loſs of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lood, af<g ref="char:EOLhyphen"/>ter ſome ſtaggering, fell to the Ground; yet calling to his Men, encouraged them to fight on for after he had bled a little, he would riſe and help them again. This made them like enraged Lions, ſo that Heaps of dead bodies barred up their way; till at laſt over-powered by freſh Numbers, and ſeeing no way of an honourable Re<g ref="char:EOLhyphen"/>treat; they all, like valiant Men, dyed in their Maſter's Cauſe, leaving a bloody Victory, for there fell by their
+<pb n="17" facs="tcp:151649:11"/>Hands two thouſand five hundred Citizens and Soldiers. The King the mean while was retired to a ſtrong-hold for Shelter; and only of <hi>Armſtrong</hi>'s Party a little Page e<g ref="char:EOLhyphen"/>ſcaped, to tell the diſmal News; at which the Mourning of his Wife and all that Country made for his untime<g ref="char:EOLhyphen"/>ly Fall, is more than we can relate: However, his lit<g ref="char:EOLhyphen"/>tle Son ſitting on his Nurſe's Knee, vowed to revenge his Death, which, being a Man, he as gallantly performed,</p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Johnny Armſtrong</hi>'s laſt Good-night.</head>
+               <lg>
+                  <l>IS there never a Man in all <hi>Scotland,</hi>
+                  </l>
+                  <l>from the higheſt eſtate to the loweſt degree,</l>
+                  <l>That can ſhow himſelf now before the King,</l>
+                  <l>
+                     <hi>Scotland</hi> is ſo full of Treachery?</l>
+               </lg>
+               <lg>
+                  <l>Yes, there is a Man in <hi>Weſtmoreland,</hi>
+                  </l>
+                  <l>and <hi>Johnny Armſtrong</hi> they do him call,</l>
+                  <l>He has no lands nor rents coming in,</l>
+                  <l>yet he keeps eightſcore men within his hall.</l>
+               </lg>
+               <lg>
+                  <l>He has Horſes and harneſs for them all,</l>
+                  <l>and goodly ſteads that be milk white,</l>
+                  <l>With their goodly belts about their necks,</l>
+                  <l>with hats and feathers all alike.</l>
+               </lg>
+               <lg>
+                  <l>The King he writes a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oving letter,</l>
+                  <l>and with his own hand ſo tenderly,</l>
+                  <l>And hath ſent it unto <hi>Johnny Armſtrong,</hi>
+                  </l>
+                  <l>to come and ſpeak with <hi>him</hi> ſpeedily.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>John</hi> he looked this Letter upon,</l>
+                  <l>good Lord, he lookt as blith as a bird in a tree,</l>
+                  <pb n="18" facs="tcp:151649:12"/>
+                  <l>I was never before a King in my life,</l>
+                  <l>my Father, my Grandfather, nor none of us three.</l>
+               </lg>
+               <lg>
+                  <l>But ſeeing we muſt go before the King,</l>
+                  <l>O we will go moſt gallantly:</l>
+                  <l>Ye ſhall every one have a Velvet-coat,</l>
+                  <l>laid down with golden laces three.</l>
+               </lg>
+               <lg>
+                  <l>And ye ſhall every one have a ſcarlet Cloak</l>
+                  <l>laid down with ſilver laces five,</l>
+                  <l>With your golden belts about your necks,</l>
+                  <l>with hats and brave feathers all alike.</l>
+               </lg>
+               <lg>
+                  <l>But when <hi>John</hi> he went from <hi>Gui<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tnock-h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll,</hi>
+                  </l>
+                  <l>the wind it blew hard, and full faſt it did rain,</l>
+                  <l>Now fare thee well thou <hi>Guiltnock-hall,</hi>
+                  </l>
+                  <l>I fear I ſhall never ſee thee again.</l>
+               </lg>
+               <lg>
+                  <l>Now <hi>Johnny</hi> is to <hi>Edenborough</hi> gone,</l>
+                  <l>with his eightſcore Men ſo gallantly,</l>
+                  <l>And every one of them a milk white ſteed,</l>
+                  <l>with their bucklers and ſwords hanging on their knee.</l>
+               </lg>
+               <lg>
+                  <l>But when <hi>John</hi> came the King before,</l>
+                  <l>with eightſcore Men ſo gallant to ſee,</l>
+                  <l>The King he mov'd his bonnet to him;</l>
+                  <l>he thought he had been a King as well as he.</l>
+               </lg>
+               <lg>
+                  <l>O Pardon, Pardon, my Sovereign Leige,</l>
+                  <l>pardon for my eightſcore Men and me,</l>
+                  <l>For my name it is <hi>Johnny Armſtrong,</hi>
+                  </l>
+                  <l>and a Subject of yours, my Liege, ſaid he.</l>
+               </lg>
+               <pb n="19" facs="tcp:151649:12"/>
+               <lg>
+                  <l>Away with thee, thou falſe Traytor,</l>
+                  <l>no Pardon will I grant to thee,</l>
+                  <l>But to morrow morning by eight of the clock,</l>
+                  <l>I will hang up thy eightſcore Men and thee.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Johnny</hi> look't over his left Shoulder,</l>
+                  <l>and to his merry Men thus ſaid he,</l>
+                  <l>I have asked Grace of a graceleſs Face,</l>
+                  <l>no Pardon there is for you or me.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>John</hi> pull'd out his truſty Sword,</l>
+                  <l>and it was made of Mettle ſo free,</l>
+                  <l>Had not the King mov'd his foot as he did</l>
+                  <l>
+                     <hi>John</hi> had taken his head from his fair Body.</l>
+               </lg>
+               <lg>
+                  <l>Come follow me my merry Men all,</l>
+                  <l>we will ſcorn one Foot for to fly,</l>
+                  <l>It ſhall ne'er be ſaid we were hung like Dogs,</l>
+                  <l>we will fight it out ſo manfully.</l>
+               </lg>
+               <lg>
+                  <l>Then they fought on like Champions bold,</l>
+                  <l>for their hearts were ſturdy, ſtout and free,</l>
+                  <l>Till they had kill'd the King's good Guard,</l>
+                  <l>there was none left alive but two or three.</l>
+               </lg>
+               <lg>
+                  <l>But then roſe up all <hi>Edenborough,</hi>
+                  </l>
+                  <l>they roſe up by thouſands three,</l>
+                  <l>A cowardly <hi>Scot</hi> came <hi>Johnny</hi> behind,</l>
+                  <l>and run him thorow the fair body.</l>
+               </lg>
+               <lg>
+                  <l>Said <hi>John,</hi> Fight on my merry Men all,</l>
+                  <l>I am a little wounded but am not ſlain,</l>
+                  <l>I will lay me down for to bleed a while,</l>
+                  <l>then I'll riſe and fight with you again.</l>
+               </lg>
+               <pb n="20" facs="tcp:151649:13"/>
+               <lg>
+                  <l>Then they fought on like mad Men all,</l>
+                  <l>till many a Man lay dead upon the Plain,</l>
+                  <l>For they were reſolved before they would yield,</l>
+                  <l>that every Man ſhould there be ſlain:</l>
+               </lg>
+               <lg>
+                  <l>So there they fought courageouſly,</l>
+                  <l>till moſt of them lay dead there and ſlain,</l>
+                  <l>But little <hi>Muſgrove</hi> that was his Foot-page,</l>
+                  <l>with his bonny Grizel got away untain.</l>
+               </lg>
+               <lg>
+                  <l>But when he came to <hi>Guiltnock-hall,</hi>
+                  </l>
+                  <l>the Lady ſpied him preſently,</l>
+                  <l>What news, what news, thou little foot Page,</l>
+                  <l>what news from thy Maſter and his Company.</l>
+               </lg>
+               <lg>
+                  <l>My news is bad, Lady, he ſaid,</l>
+                  <l>which I do bring, as you may ſee,</l>
+                  <l>My Maſter <hi>Johnny Armſtrong</hi> is ſlain,</l>
+                  <l>and all his gallant Company.</l>
+               </lg>
+               <lg>
+                  <l>Yet thou art welcome home my bonny Grizel,</l>
+                  <l>full oft thou haſt been fed with Corn and Hay,</l>
+                  <l>But now thou ſhalt be fed with bread and wine,</l>
+                  <l>and thy ſides ſhall be ſpurr'd no more I ſay.</l>
+               </lg>
+               <lg>
+                  <l>O then beſpake his little Son,</l>
+                  <l>as he ſat on his Nurſe's Knee,</l>
+                  <l>If ever I live to be a Man,</l>
+                  <l>my Father's Death reveng'd ſhall be.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
